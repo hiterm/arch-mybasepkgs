@@ -13,9 +13,9 @@ arch=()
 url=""
 license=('GPL')
 groups=()
-depends=('zsh' 'git' 'gvim' 'xorg-server' 'tmux'
-'plasma-meta' 'plasma-nm' 'konsole' 'latte-dock' 'dolphin'
-'adobe-source-han-sans'
+depends=('zsh' 'git' 'gvim' 'tmux' 'fzf'
+'xorg-server' 'plasma-meta' 'plasma-nm' 'konsole' 'latte-dock' 'dolphin'
+'adobe-source-han-sans-jp-fonts' 'adobe-source-han-serif-jp-fonts'
 'ttf-dejavu' 'ttf-liberation'
 'fcitx-im' 'kcm-fcitx'
 'xclip')

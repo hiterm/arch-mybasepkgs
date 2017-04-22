@@ -3,6 +3,6 @@ pacman -S zsh git gvim tmux fzf \
     adobe-source-han-sans-jp-fonts adobe-source-han-serif-jp-fonts \
     ttf-dejavu ttf-liberation \
     fcitx-im kcm-fcitx \
-    xclip xorg-xmodmap
+    xclip xorg-xmodmap openssh
 
 # xorg-server plasma-meta plasma-nm konsole latte-dock dolphin \

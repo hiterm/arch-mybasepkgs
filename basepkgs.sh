@@ -3,5 +3,6 @@ pacman -S zsh git gvim tmux fzf \
     gnome gnome-tweak-tool \
     adobe-source-han-sans-jp-fonts adobe-source-han-serif-jp-fonts \
     ttf-dejavu ttf-liberation \
-    fcitx-im kcm-fcitx fcitx-mozc \
-    xclip xorg-xmodmap openssh
+    fcitx-im fcitx-configtool fcitx-mozc \
+    xclip xorg-xmodmap openssh wget curl \
+    chrome-gnome-shell-git

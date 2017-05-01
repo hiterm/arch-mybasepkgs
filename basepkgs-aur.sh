@@ -1,1 +1,1 @@
-yaourt -S vivaldi ttf-ricty nixnote
+yaourt -S vivaldi ttf-ricty nixnote chrome-gnome-shell-git

@@ -5,4 +5,4 @@ pacman -S zsh git gvim tmux fzf \
     ttf-dejavu ttf-liberation \
     fcitx-im fcitx-configtool fcitx-mozc \
     xclip xorg-xmodmap openssh wget curl \
-    chrome-gnome-shell-git
+    chromium
